@@ -1,0 +1,2 @@
+# .gitignore
+Generic .gitignore
