@@ -68,3 +68,12 @@ Thumbs.db
 *.swp
 *.bak
 *#
+
+# Vagrant #
+###########
+/.vagrant
+
+# PHP #
+#######
+phpunit.xml
+/vendor
