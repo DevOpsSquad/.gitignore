@@ -1,3 +1,9 @@
+=== 0.2 (February 17, 2015)
+
+* Add `Android generated file`.
+* Add `Vagrant generated file`.
+* Add `PHPUnit generated file`.
+
 === 0.1 (February 16, 2015)
 
 * Add `License`.
