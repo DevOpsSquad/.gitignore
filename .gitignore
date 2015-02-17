@@ -80,3 +80,13 @@ gen/
 .gradle/
 build/
 local.properties
+
+# Vagrant #
+###########
+/.vagrant
+
+# PHP #
+#######
+phpunit.xml
+/vendor
+
