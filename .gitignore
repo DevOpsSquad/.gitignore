@@ -31,7 +31,7 @@
 .project
 .settings
 .idea
-.idea/ 
+.idea/
 .metadata
 *.iml
 *.ipr
@@ -92,3 +92,8 @@ local.properties
 phpunit.xml
 /vendor
 composer.phar
+
+# Ruby #
+#######
+Guardfile
+Gemfile*
