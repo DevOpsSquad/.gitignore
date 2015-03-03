@@ -31,8 +31,8 @@ Guidelines for bug reports:
 2. **Check if the issue has been fixed in stable release** – try to reproduce it using 
    the latest `master` branch in the repository.
 
-3. **Isolate the problem** – create a live example and [write issue](https://github.com/whilex/whilex/issues) 
-   on whilex official repository. 
+3. **Isolate the problem** – create a live example and [write issue](https://github.com/PTKDev/.gitignore/issues) 
+   on gitignore official repository. 
 
 ## License
 
